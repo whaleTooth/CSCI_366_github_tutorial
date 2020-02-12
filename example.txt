@@ -1,2 +1,2 @@
-A different first line
-A different second line
+First merged line
+Second merged line Added a second line
